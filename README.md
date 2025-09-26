@@ -10,9 +10,6 @@ FEATURES-
 - Built with modern AI frameworks
 
  Tech Stack-
-
-- **Frontend**: React.js / HTML / CSS
-- **Backend**: Node.js / Express
 - **AI Model**: Stable Diffusion / DALL·E / Custom-trained model
 - **Database**: MongoDB / Firebase (optional)
 - **Cloud**: AWS / Google Cloud / Hugging Face APIs
